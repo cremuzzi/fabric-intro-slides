@@ -97,3 +97,62 @@ Cadenas de bloques con permiso de admisión
 - Hyperledger
 - Corda
 
+* Blockchain de acceso público
+
+- Son las utilizadas mayormente por las criptomonedas.
+- La participación es libre.
+- No hay confianza en los participantes.
+- Consenso para validaciones: PoW y PoS
+- Validaciones transaccionales lentas
+
+* Blockchain de acceso con permiso
+
+- Son las utilizadas en ambientes controlados.
+- Diferentes tipos de consenso ( != PoW )
+- Cantidad inferior de nodos en gral. ( !anonimato )
+- Reafirmación del concepto de SM o de SMART Contract/Chaincode r act/Chaincode
+
+* Hyperledger Fabric
+
+.image fabric-intro/img/slide21.png _ 250
+
+- El Proyecto Hyperledger nace como un esfuerzo colaborativo de código abierto creado para avanzar en el desarrollo de las tecnologías Blockchain
+- En este proyecto participan numerosas empresas coordinadas y organizadas por la Linux Foundation
+
+* Comparación de blockchains de permiso
+
+.image fabric-intro/img/slide22.png _ 800
+
+* La arquitectura de Hyperledger Fabric
+
+.image fabric-intro/img/slide23.png _ 800
+
+* El proceso de Hyperledger Fabric
+
+.image fabric-intro/img/slide24.png _ 900
+
+* 1. Propuesta de transacción
+
+.image fabric-intro/img/slide25.png _ 900
+
+* 2. Verificación de firma y ejecución
+
+.image fabric-intro/img/slide26.png _ 900
+
+* 3. Inspección de las respuestas a la propuesta
+
+.image fabric-intro/img/slide27.png _ 900
+
+* 4. Armado de la transacción
+
+.image fabric-intro/img/slide28.png _ 900
+
+* 5. Validación de la transacción
+
+.image fabric-intro/img/slide29.png _ 900
+
+* 6. Actualización del ledger
+
+.image fabric-intro/img/slide30.png _ 900
+
+* DEMO
