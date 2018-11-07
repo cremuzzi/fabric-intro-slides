@@ -1,0 +1,35 @@
+Cadena de bloques para la Ciudadanía Digital
+una introducción
+
+Carlos Remuzzi
+Área de Investigación, AGETIC
+cremuzzi@agetic.gob.bo
+@AgeticBolivia
+
+Erick Poppe
+Área de Investigación, AGETIC
+epoppe@agetic.gob.bo
+@erickpoppe
+
+* ¿ Que es una cadena de bloques ? 
+
+* Definición de cadena de bloques 
+
+- Es un sistema de registro distribuido de orden cronológico e integridad
+- Existe similaridad a una base de datos distribuida.
+
+* Diferencia con otros sistemas distribuidos
+
+- Una cadena de bloques registra una aplicación distribuida y no sólo almacena datos
+
+* Características
+
+* Blockchain
+
+- Registro distribuido que almacena los registros en bloques de información encadenados entre sí criptográficamente
+- Distributed Ledger Technology (DLT): nuevo tipo de base de datos segura o libro mayor que se replica en varios sitios, sin control centralizado
+
+* Blockchain
+
+- El blockchain es un ejemplo de DLT en la que cada participante, cada nodo, en una cadena de bloques puede mantener y compartir una copia de la cadena, actualizando los nodos automáticamente cada vez que se produce una nueva transacción.
+- Smart Contract: Son contratos cuyos términos se registran en código Blockchain y que pueden ser ejecutados automáticamente.
