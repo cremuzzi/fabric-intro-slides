@@ -141,7 +141,7 @@ Cadenas de bloques con permiso de admisión
 
 * 3. Inspección de las respuestas a la propuesta
 
-.image fabric-intro/img/slide27.png _ 900
+.image fabric-intro/img/slide27.png _ 600
 
 * 4. Armado de la transacción
 
@@ -154,5 +154,3 @@ Cadenas de bloques con permiso de admisión
 * 6. Actualización del ledger
 
 .image fabric-intro/img/slide30.png _ 900
-
-* DEMO
