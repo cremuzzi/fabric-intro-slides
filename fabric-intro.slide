@@ -11,9 +11,9 @@ Erick Poppe
 epoppe@agetic.gob.bo
 @erickpoppe
 
-* ¿ Que es una cadena de bloques ? 
+* ¿ Que es una cadena de bloques ?
 
-* Definición de cadena de bloques 
+* Definición de cadena de bloques
 
 - Es un sistema de registro distribuido de orden cronológico e integridad
 - Existe similaridad a una base de datos distribuida.
@@ -24,12 +24,76 @@ epoppe@agetic.gob.bo
 
 * Características
 
-* Blockchain
+* >
 
 - Registro distribuido que almacena los registros en bloques de información encadenados entre sí criptográficamente
 - Distributed Ledger Technology (DLT): nuevo tipo de base de datos segura o libro mayor que se replica en varios sitios, sin control centralizado
 
-* Blockchain
+* >
 
 - El blockchain es un ejemplo de DLT en la que cada participante, cada nodo, en una cadena de bloques puede mantener y compartir una copia de la cadena, actualizando los nodos automáticamente cada vez que se produce una nueva transacción.
 - Smart Contract: Son contratos cuyos términos se registran en código Blockchain y que pueden ser ejecutados automáticamente.
+
+* Transacciones registradas
+
+.image fabric-intro/img/slide6.png _ 900
+
+* Centralización de transacciones
+
+.image fabric-intro/img/slide7.png _ 400
+
+* Transacciones registradas
+
+.image fabric-intro/img/slide8.png _ 900
+
+* Evaluación de la transacciones
+
+.image fabric-intro/img/slide9.png _ 900
+
+* Descentralización
+
+.image fabric-intro/img/slide10.png _ 500
+
+* Casos de uso del blockchain
+
+* Servicios financieros
+
+.image fabric-intro/img/slide12.png _ 500
+
+Se utiliza Blockchain para negociar acciones y bonos con una reducción del riesgo y del tiempo, y una mayor transparencia
+
+* Cadena de suministro
+
+.image fabric-intro/img/slide13.png _ 500
+
+Utilizar Blockchain para mayor eficiencia, así como estándares más seguros y más éticos a través de la posibilidad de probar la veracidad de las transacciones a todas las partes interesadas
+
+* Servicios de atención a la salud
+
+.image fabric-intro/img/slide14.png _ 500
+
+Agilizar la atención en salud compartiendo registros de datos de pacientes entre entidades responsables de atención
+
+* Desafíos jurídicos
+
+* >
+
+- Ley aplicable y Jurisdicción competente
+- Transparencia y Privacidad de los datos
+- Tributación
+- Interoperabilidad
+
+* Clases de cadenas de bloques
+
+* >
+
+Cadenas de bloques de libre acceso
+
+- Bitcoin
+- Ethereum
+
+Cadenas de bloques con permiso de admisión
+
+- Hyperledger
+- Corda
+
